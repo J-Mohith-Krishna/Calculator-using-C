@@ -11,5 +11,6 @@ This C program acts as a simple calculator, prompting users to input an operator
    -Calculation and Output:
    Performs the specified calculation (addition, subtraction, multiplication, or division) based on the chosen operator.
 Prints the result with one decimal point precision.
+ 
    -Error Handling:
    Includes a default case in the switch statement for handling cases where the entered operator is not valid.
